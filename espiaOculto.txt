@@ -1,0 +1,8 @@
+Reporte Análisís de Espía Oculto
+
+Material: Imagen en formato png
+Archivo: Práctica - Clase N.ª 9.png
+Fuente de análisís: Steganography Online
+URL: https://stylesuxx.github.io/steganography/
+Mensaje: CodeHouse Ciberseguridad
+Análisís hexadesimal:
