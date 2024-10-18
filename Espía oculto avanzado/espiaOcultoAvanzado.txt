@@ -1,0 +1,18 @@
+Reporte Análisis de Espía Oculto
+
+Material: Imagen en formato png
+Archivo: desafio_entregable.png
+Fuente de análisis: GHex
+Resultado obtenido GHex: Código binario (resultadoGHex.png)
+Resultado traducción del código binario: Dirección URL (resultadoBinario.png)
+URL:https://goo.su/e0Ht
+Contenido URL: Mensaje cifrado y su correspondiente clave (claversa.txt)
+Funte de análisís: https://www.devglan.com/online-tools/rsa-encryption-decryption
+Resultado del análisis: Texto indicando la confirmación de un pago y su correspondiente clave
+Código Descifrado:Recibimos la información, para recibir el pago debes respondas la pregunta oculta en el archivo.
+Contraseña: Code
+Fuente de análisis: OpenStego
+Archivo: desafio_entregarle.png
+Resultado obtenido: Archivo de audio (espiaoculto.wav)
+Final del análisis: No soy ávido consumidor de pelis o series pero la última que me dejó con ganas de haya sido más larga fue Witcher
+
